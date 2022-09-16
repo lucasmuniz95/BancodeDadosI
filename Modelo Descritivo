@@ -1,0 +1,8 @@
+A empresa Minibox, deseja desenvolver uma plataforma de Ecommerce, onde, pessoas ou empresas possam acessar esse sistema, realizar seu cadastro e anunciar seus produtos.
+A empresa está localizada na cidade de João Pessoa, e atende seus clientes por meio virtual. É fundamental que o anunciante possa realizar o seu cadastro e informar os seus dados cadastrais, como: nome completo ou razão social, CPF ou CNPJ, e-mail, endereço completo, telefone e nome da mãe. Será necessário também existir os níveis de categoria de acordo com as vendas realizadas para que o cliente possa avaliar cada vendedor.
+
+O Cadastro do produto é fundamental que solicite os dados da descrição do produto, Informações adicionais, preço, vínculo do vendedor com o produto, o estoque, imagens, meios de pagamento e também os meios de envio. O nível de excelência do produto, uma parte para registrar a parte de perguntas e respostas.
+
+O Cadastro dos meios de pagamento é fundamental para cadastrar os tipos de cartão contendo a opção crédito e débito, tendo a quantidade de parcelas possíveis, pix, transferência e boleto.
+O Cadastro dos meios de envio será correios, transportadora ou retirada em loja para saber detalhes do pedido.
+Para finalizar o pedido, deverá ser gerado um código que conterá informações como quem comprou e quem vendeu. Informar o produto, o método de envio e o de pagamento.
